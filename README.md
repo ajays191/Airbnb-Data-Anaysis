@@ -1,5 +1,8 @@
  # NYC Airbnb
 
+ ![5ef4a7bcaf944illo_airbnbCycle_thumbnail](https://github.com/ajays191/Airbnb-Data-Anaysis/assets/134697755/8b6a8fcc-5928-491c-b3c2-1c7b759b3ca0)
+
+
 Step into a world where data and hospitality converge, shaping NYC's Airbnb landscape. This repository deciphers pricing and availability strategies, orchestrating guest delight and host success.
 
 Explore the dataset's core – essential columns, from "neighbourhood" to "price," that sculpt pricing dynamics. Traveler preferences come alive through room types – "Entire home/apt," "Private room," and "Shared room" – reflecting diverse desires.
