@@ -11,7 +11,7 @@ Visualizations unveil the dance of price and availability, while insights surfac
 
 As the journey concludes, hosts and guests take center stage, armed with insights that breathe life into the city's hospitality rhythm, where data and dreams coalesce. With the project now completed, I extend a sincere thank you for the opportunity to embark on this endeavor and for the individual effort that crafted this harmonious symphony of data-driven success.
 
-                      ![Uploading giphy.gif…]()
+![giphy](https://github.com/ajays191/Airbnb-Data-Anaysis/assets/134697755/1fc2cbc6-0514-4488-a77d-0989754e87b7)
 
 
 
