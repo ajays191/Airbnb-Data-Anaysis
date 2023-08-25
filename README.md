@@ -1,4 +1,4 @@
- # NYC Airbnb: Merging Data and Hospitality
+ # NYC Airbnb
 
 Step into a world where data and hospitality converge, shaping NYC's Airbnb landscape. This repository deciphers pricing and availability strategies, orchestrating guest delight and host success.
 
