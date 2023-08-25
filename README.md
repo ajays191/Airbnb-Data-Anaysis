@@ -7,3 +7,4 @@ Explore the dataset's core – essential columns, from "neighbourhood" to "price
 Visualizations unveil the dance of price and availability, while insights surface strategies for dynamic pricing, optimal stays, and hosting finesse. This isn't just data; it's crafting experiences.
 
 As the journey concludes, hosts and guests take center stage, armed with insights that breathe life into the city's hospitality rhythm, where data and dreams coalesce. With the project now completed, I extend a sincere thank you for the opportunity to embark on this endeavor and for the individual effort that crafted this harmonious symphony of data-driven success.
+![Uploading download.png…]()
